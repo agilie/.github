@@ -27,8 +27,8 @@ ___
 
 Mobile Development:
 
-<a  href="https://www.android.com/"><img width="28" height="28" src="https://github.com/agilie/.github/blob/main/assets/tech-stack/android.png?raw=true" alt="Android"></a>&nbsp;
-<a  href="https://developer.apple.com/ios/"><img height="28" width="26" alt="Agilie_technology_animation" src="https://github.com/agilie/.github/blob/main/assets/tech-stack/ios.png?raw=true"></a>&nbsp;
+<a  href="https://www.android.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/agilie/.github/blob/main/assets/dark/tech-stack/android.png?raw=true"><img width="32" height="28" src="https://github.com/agilie/.github/blob/main/assets/tech-stack/android.png?raw=true" alt="Android"></picture></a>&nbsp;
+<a  href="https://developer.apple.com/ios/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/agilie/.github/blob/main/assets/dark/tech-stack/ios.png?raw=true"><img height="28" width="28" src="https://github.com/agilie/.github/blob/main/assets/tech-stack/ios.png?raw=true" alt="IOS"></picture></a>&nbsp;
 <a  href="https://ionicframework.com/"><img src="https://github.com/agilie/.github/blob/main/assets/tech-stack/Ionic.png?raw=true" alt="Ionic" width="28" height="28"></a>&nbsp;
 <a  href="https://nativescript.org/"><img src="https://github.com/agilie/.github/blob/main/assets/tech-stack/native-script.png?raw=true" alt="Nativescript" width="28" height="28"></a>&nbsp;
 <a  href="https://reactnative.dev/"><img src="https://github.com/agilie/.github/blob/main/assets/tech-stack/react-native.png?raw=true" alt="React Native" width="28" height="28"></a>&nbsp;
@@ -37,12 +37,12 @@ Mobile Development:
 Web Platform:
 
 <a  href="https://rubyonrails.org/" style="text-decoration: none"><img src="https://github.com/agilie/.github/blob/main/assets/tech-stack/ruby-on-rails.png?raw=true" alt="Ruby on Rails" width="56" height="28"></a>&nbsp;
-<a  href="https://nodejs.org/"><img src="https://github.com/agilie/.github/blob/main/assets/tech-stack/node-js.png?raw=true" alt="Nodejs" width="56" height="28"></a>&nbsp;
-<a  href="https://sinatrarb.com/"><img src="https://github.com/agilie/.github/blob/main/assets/tech-stack/sinatra.png?raw=true" alt="Sinatrarb" width="56" height="28"></a>&nbsp;
+<a  href="https://nodejs.org/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/agilie/.github/blob/main/assets/dark/tech-stack/node-js.png?raw=true"><img src="https://github.com/agilie/.github/blob/main/assets/light/tech-stack/node-js.png?raw=true" alt="Nodejs" width="100" height="28"></picture></a>&nbsp;
+<a  href="https://sinatrarb.com/"><img src="https://github.com/agilie/.github/blob/main/assets/light/tech-stack/sinatra.png?raw=true" alt="Sinatrarb" width="41" height="28"></a>&nbsp;
 <a  href="https://activeadmin.info/"><img src="https://github.com/agilie/.github/blob/main/assets/tech-stack/active-admin.png?raw=true" alt="Active admin" width="28" height="28"></a>&nbsp;
-<a  href="https://expressjs.com/"><img src="https://github.com/agilie/.github/blob/main/assets/tech-stack/express-js.png?raw=true" alt="Expressjs" width="70" height="28"></a>&nbsp;
+<a  href="https://expressjs.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/agilie/.github/blob/main/assets/dark/tech-stack/express-js.png?raw=true"><img src="https://github.com/agilie/.github/blob/main/assets/light/tech-stack/express-js.png?raw=true" alt="Expressjs" width="115" height="28"></picture></a>&nbsp;
 <a  href="https://nestjs.com/"><img src="https://github.com/agilie/.github/blob/main/assets/tech-stack/nest-js.png?raw=true" alt="Nestjs" width="28" height="28"></a>&nbsp;
-<a  href="https://hapi.dev/"><img src="https://github.com/agilie/.github/blob/main/assets/tech-stack/hapi.png?raw=true" alt="Hapi" width="28" height="28"></a>&nbsp;
+<a  href="https://hapi.dev/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/agilie/.github/blob/main/assets/dark/tech-stack/hapi.png?raw=true"><img src="https://github.com/agilie/.github/blob/main/assets/light/tech-stack/hapi.png?raw=true" alt="Hapi" width="27" height="28"></picture></a>&nbsp;
 <br>
 <a  href="https://angular.dev/"><img src="https://github.com/agilie/.github/blob/main/assets/tech-stack/angular.png?raw=true" alt="Angular" width="28" height="28"></a>&nbsp;
 <a  href="https://react.dev/"><img src="https://github.com/agilie/.github/blob/main/assets/tech-stack/react-js.png?raw=true" alt="React" width="28" height="28"></a>&nbsp;
@@ -61,10 +61,10 @@ Programming Languages:
 
 Technologies:
 
-<a  href="https://aws.amazon.com/what-is/restful-api/#:~:text=RESTful%20web%20services%20support%20total,not%20affect%20the%20client%20application."><img src="https://github.com/agilie/.github/blob/main/assets/tech-stack/rest.png?raw=true" alt="Restful" width="43" height="28"></a>&nbsp;
+<a  href="https://aws.amazon.com/what-is/restful-api/#:~:text=RESTful%20web%20services%20support%20total,not%20affect%20the%20client%20application."><picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/agilie/.github/blob/main/assets/dark/tech-stack/rest.png?raw=true"><img src="https://github.com/agilie/.github/blob/main/assets/light/tech-stack/aws.png?raw=true" alt="Restful" width="43" height="28"></picture></a>&nbsp;
 <a  href="https://www.docker.com/"><img src="https://github.com/agilie/.github/blob/main/assets/tech-stack/docker.png?raw=true" alt="Docker" width="28" height="28"></a>&nbsp;
-<a  href="https://github.com/agilie/.github/blob/main/assets/tech-stack/firebase.png?raw=true" alt="Firebase" width="28" height="28"></a>&nbsp;
-<a  href="https://aws.amazon.com/"><img src="https://github.com/agilie/.github/blob/main/assets/tech-stack/aws.png?raw=true" alt="AWS" width="39" height="28"></a>&nbsp;
+<a  href="https://firebase.google.com/"><img src="https://github.com/agilie/.github/blob/main/assets/tech-stack/firebase.png?raw=true" alt="Firebase" width="28" height="28"></a>&nbsp;
+<a  href="https://aws.amazon.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/agilie/.github/blob/main/assets/dark/tech-stack/aws.png?raw=true"><img src="https://github.com/agilie/.github/blob/main/assets/tech-stack/aws.png?raw=true" alt="AWS" width="47" height="28"></picture></a>&nbsp;
 <a  href="https://www.digitalocean.com/"><img src="https://github.com/agilie/.github/blob/main/assets/tech-stack/digital-ocean.png?raw=true" alt="DigitalOcean" width="28" height="28"></a>&nbsp;
 <br>
 <br>
@@ -79,10 +79,10 @@ Technologies:
 
 <h3 align="center">Our links</h3>
 <p align="center">
-<a  href="https://www.behance.net/agilie"><img src="https://github.com/agilie/.github/blob/main/assets/socials/behance.png?raw=true" width="40" height="40" alt="Behance"/></a>
-<a  href="https://dribbble.com/agilie"><img src="https://github.com/agilie/.github/blob/main/assets/socials/dribbble.png?raw=true" width="40" height="40" alt="Dribble"/></a>
-<a  href="https://www.instagram.com/agilie_team/"><img src="https://github.com/agilie/.github/blob/main/assets/socials/instagram.png?raw=true" width="40" height="40" alt="Instagram"/></a>
-<a  href="https://www.facebook.com/AgilieTeam/"><img src="https://github.com/agilie/.github/blob/main/assets/socials/facebook.png?raw=true" width="40" height="40" alt="Facebook"/></a>
-<a  href="https://www.linkedin.com/company/agilie"><img src="https://github.com/agilie/.github/blob/main/assets/socials/linkedin.png?raw=true" width="40" height="40" alt="Linkedin"/></a>
+<a  href="https://www.behance.net/agilie"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/agilie/.github/blob/main/assets/dark/socials/behance.png?raw=true"><img src="https://github.com/agilie/.github/blob/main/assets/light/socials/behance.png?raw=true" width="40" height="40" alt="Behance"/></picture></a>
+<a  href="https://dribbble.com/agilie"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/agilie/.github/blob/main/assets/dark/socials/dribbble.png?raw=true"><img src="https://github.com/agilie/.github/blob/main/assets/light/socials/dribbble.png?raw=true" width="40" height="40" alt="Dribbble"/></picture></a>
+<a  href="https://www.instagram.com/agilie_team/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/agilie/.github/blob/main/assets/dark/socials/instagram.png?raw=true"><img src="https://github.com/agilie/.github/blob/main/assets/light/socials/instagram.png?raw=true" width="40" height="40" alt="Instagram"/></picture></a>
+<a  href="https://www.facebook.com/AgilieTeam/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/agilie/.github/blob/main/assets/dark/socials/facebook.png?raw=true"><img src="https://github.com/agilie/.github/blob/main/assets/light/socials/facebook.png?raw=true" width="40" height="40" alt="Facebook"/></picture></a>
+<a  href="https://www.linkedin.com/company/agilie"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/agilie/.github/blob/main/assets/dark/socials/linkedin.png?raw=true"><img src="https://github.com/agilie/.github/blob/main/assets/light/socials/linkedin.png?raw=true" width="40" height="40" alt="Linkedin"/></picture></a>
 </p>
 <br>
