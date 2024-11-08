@@ -4,7 +4,7 @@
 
 # Agilie: Inspired Dev Team
 
-### About us
+### 💼 About us
 Agilie is a European tech company dedicated to providing high-quality digital services. With a team of experienced developers and specialists, Agilie possesses the expertise needed to effectively implement digital projects of varying complexity levels.
 
 📅  &nbsp;Established and Accomplished \
